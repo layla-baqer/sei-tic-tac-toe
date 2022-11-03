@@ -1,4 +1,4 @@
-<a href="https://layla-baqer.github.io/sei-tic-tac-toe/">link to tic-tac-toe gamet</a>
+<a href="https://layla-baqer.github.io/sei-tic-tac-toe/">link to tic-tac-toe game</a>
 
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
